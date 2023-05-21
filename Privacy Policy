@@ -47,17 +47,12 @@ While using Our Service, We may ask You to provide Us with certain personally id
   •	Phone number
 
 Camera Usage
+As part of using our Application, we may require access to certain features on your device to provide the best user experience. With your prior permission, we may collect:
 
-As part of using our Application, we may require access to certain features on your device in order to provide the best user experience. With your prior permission, we may collect:
-
-  •	Pictures and other information from your device's camera and photo library.
-
-Our Application uses the camera feature of Your Device to scan QR codes and capture images for the purpose of performing certain functions within the app, such as taking test results or capturing images for user profiles. We do not share any images or camera data with third-party providers.
-In addition to camera usage, we also use the READ_EXTERNAL_STORAGE and WRITE_EXTERNAL_STORAGE permissions to access and store images from your device. This is necessary for certain functions within the Application.
+Pictures and other information from your device's camera and photo library.
+Our Application uses the camera feature of Your Device to scan QR codes and capture images for the purpose of performing certain functions within the app, such as taking test results or capturing images for user profiles. We do not share any images or camera data with third-party providers. In addition to camera usage, we also use the READ_EXTERNAL_STORAGE and WRITE_EXTERNAL_STORAGE permissions to access and store images from your device. This is necessary for certain functions within the Application.
 
 We use this information solely to provide features of Our Service and to improve and customize Our Service for you. Your information may be uploaded to our Company's servers or a third-party service provider's server, or it may be stored solely on Your Device.
-
-You have the ability to enable or disable access to this information at any time through your device settings.
 
 Please note that we do not share or sell any personal information collected through our application to third parties, except as required by law or as necessary to provide the services requested by you.
 
